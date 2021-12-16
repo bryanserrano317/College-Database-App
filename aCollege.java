@@ -1,6 +1,6 @@
 /*
  Project 3
- Bryan Serrano, Michael Tsang, Jonathan Cole Collins, Natasha Bodner
+ Bryan Serrano, Michael Tsang
 
 */
 
