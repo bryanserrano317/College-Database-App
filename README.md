@@ -1,5 +1,7 @@
 # Data-Management-Project
-Undergrad OOP final team project - Data Management System for universities
+Undergrad OOP Class Final Team Project - Data Management System for universities
+
+Data is parsed and proofed then stored in an arraylist. Program also prints a report with all faculty/student information once leaving the program.
 
 Main Menu:
 ![ACOLLEGE1](https://user-images.githubusercontent.com/75232089/150578562-659d9215-5879-4237-b0da-75114f491ff9.png)
