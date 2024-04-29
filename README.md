@@ -1,4 +1,6 @@
 # Data-Management-Project
+Note: We were required to combine all code into one file
+
 Undergrad OOP Class Final Team Project - Data Management System for universities
 
 Data is parsed and proofed then stored in an arraylist. Program also prints a report with all faculty/student information once leaving the program.
